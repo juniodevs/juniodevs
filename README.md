@@ -2,13 +2,21 @@
 <h3 align="center">Buscando ser um Developer Brasileiro</h3>
 
 <h2 align="center">Profile Stats</h2>
-<div align="center">
-  <a href="https://github.com/juniodevs">
-    <img height="150em" src="https://github-readme-stats.vercel.app/api?username=juniodevs&count_private=true&include_all_commits=true&show_icons=true&theme=midnight-purple&hide_border=false&show_owner=true"/>
-    <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=juniodevs&theme=midnight-purple&hide_border=false&&layout=compact"/>
-  </a>
-</div>
-<div align="center" valign="top"><br>
+<table cellpadding="0">
+  <tr style="padding: 0">
+    <!-- GitHub Stats Card -->  
+    <td valign="top"><img height="200" src="https://github-readme-stats.vercel.app/api?username=juniodevs&show_icons=true&include_all_commits=true&count_private=true&theme=apprentice&hide_border=true&bg_color=0D1117"/></td>
+    <!-- Github Top Languages -->
+      <td valign="top"><img height="200" src="https://github-readme-stats.vercel.app/api/top-langs?username=juniodevs&show_icons=true&include_all_commits=true&count_private=true&theme=apprentice&hide_border=true&bg_color=0D1117&layout=compact"/></td>
+      <tr style="padding: 0">
+    <!-- GitHub Stats Card -->  
+    <td valign="top"><img height="200" src="https://github-readme-streak-stats.herokuapp.com/?user=juniodevs&theme=black-ice&hide_border=true&stroke=0000&background=0D1117&ring=e05397&fire=e05397&currStreakLabel=e05397"/></td>
+    <!-- Github Top Languages -->
+      <td valign="top"><img height="200" src="https://activity-graph.herokuapp.com/graph?username=juniodevs&custom_title=My%20Activity%20Graph!&hide_border=true&bg_color=0D1117&line=fff&point=fff&theme=github"/></td>
+  </tr>
+  </tr>
+</table>
+<div align="center" valign="top">
   <img  alt="junio-Js" src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E">
   <img  alt="junio-Node" src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white">
   <img  alt="junio-HTML" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
