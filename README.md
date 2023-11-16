@@ -1,5 +1,4 @@
-<h1 align="center">Olá 👋, Eu sou Júnior Veras</h1>
-<h3 align="center">Buscando ser um Developer Brasileiro</h3>
+<h2 align="center">Olá 👋, Eu sou Júnior Veras</h1>
 
 <h2 align="center">Profile Stats</h2>
 <table cellpadding="0">
