@@ -12,7 +12,7 @@
     <!-- GitHub Stats Card -->  
     <td valign="top"><img height="200" src="https://github-readme-streak-stats.herokuapp.com/?user=juniodevs&theme=black-ice&hide_border=true&stroke=0000&background=0D1117&ring=e05397&fire=e05397&currStreakLabel=e05397"/></td>
     <!-- Github Top Languages -->
-      <td valign="top"><img height="200" src="https://activity-graph.herokuapp.com/graph?username=juniodevs&custom_title=My%20Activity%20Graph!&hide_border=true&bg_color=0D1117&line=fff&point=fff&theme=github"/></td>
+      <td valign="top"><img height="200" src="https://github-readme-activity-graph.vercel.app/graph?username=juniodevs&bg_color=000000&color=ffffff&line=2ce114&point=ffffff&area=true&hide_border=true"/></td>
   </tr>
   </tr>
 </table>
