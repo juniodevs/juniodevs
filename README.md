@@ -54,20 +54,6 @@ Atualmente atuo como Analista de QA Júnior no FitBank, com foco em testes autom
 
 ---
 
-## 📊 GitHub Stats
-
-<div align="center">
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=juniodevs&show_icons=true&include_all_commits=true&count_private=true&theme=apprentice&hide_border=true&bg_color=0D1117" alt="GitHub Stats"/>
-  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs?username=juniodevs&layout=compact&theme=apprentice&hide_border=true&bg_color=0D1117" alt="Top Langs"/>
-</div>
-
-<div align="center">
-  <img height="180" src="https://github-readme-streak-stats.herokuapp.com/?user=juniodevs&theme=black-ice&hide_border=true&stroke=0000&background=0D1117&ring=e05397&fire=e05397&currStreakLabel=e05397" alt="Streak Stats"/>
-  <img height="180" src="https://github-readme-activity-graph.vercel.app/graph?username=juniodevs&bg_color=000000&color=ffffff&line=2ce114&point=ffffff&area=true&hide_border=true" alt="Activity Graph"/>
-</div>
-
----
-
 ## 🌐 Contato e Redes
 
 <div align="center">
