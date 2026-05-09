@@ -18,12 +18,16 @@
 
 ## 🧑‍💻 Sobre
 
-Atualmente atuo como Analista de QA Júnior no FitBank, com foco em testes automatizados e qualidade de software. Tenho experiência com:
+Atualmente venho me dedicando ao desenvolvimento de projetos pessoais, explorando integrações, migração de projetos para tecnologias modernas (como Node.js e React).
+Possuo uma forte base em Qualidade de Software (QA), com experiência prática prévia em:
 - **Selenium**, **C#**, **Cypress**, **Postman**
-- Testes manuais e automatizados
+- Criação e execução de testes manuais e automatizados
 - Metodologias ágeis e trabalho em equipe
 
-📚 Graduando em **Sistemas de Informação** pela Universidade Federal do Ceará (UFC).  
+📚 Graduando em **Sistemas de Informação** pela Universidade Federal do Ceará (UFC).
+
+🎮 No tempo livre, contribuo ocasionalmente para a comunidade *modding*.
+
 🔎 Em constante evolução e aberto a novos desafios e colaborações.
 
 ---
@@ -40,6 +44,7 @@ Atualmente atuo como Analista de QA Júnior no FitBank, com foco em testes autom
 
   <!-- Frameworks e libs -->
   <img alt="Node.js" src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node-dot-js&logoColor=white"/>
+  <img alt="React" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
   <img alt="RedwoodJS" src="https://img.shields.io/badge/RedwoodJS-990000?style=for-the-badge&logo=redwoodjs&logoColor=white"/>
   
   <!-- Ferramentas de QA -->
